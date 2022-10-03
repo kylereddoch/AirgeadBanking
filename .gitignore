@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs/AirgeadBanking/v17
+/x64/Debug
+/AirgeadBanking.sln
+/AirgeadBanking.vcxproj.user
+/AirgeadBanking.vcxproj.filters
+/AirgeadBanking.vcxproj
